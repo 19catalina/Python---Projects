@@ -21,7 +21,7 @@ SQLAlchemy (Working with databases)
 
 📂 How to Use
 Clone the repository:
-git clone https://github.com/yourusername/python-projects.git
+git clone https://github.com/19catalina/Python---Projects
 
 Set up a virtual environment (optional but recommended):
 python -m venv venv  
